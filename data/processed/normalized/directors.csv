@@ -1,0 +1,412 @@
+director_id,director
+0,Frank Darabont
+1,Yûichirô Hayashi
+2,Francis Ford Coppola
+3,Ertem Egilmez
+4,Ram Mohan
+5,Yûgô Sakô
+6,Koichi Saski
+7,Anuj Bhardwaj
+8,Kadiri Venkata Reddy
+9,Christopher Nolan
+10,Steven Spielberg
+11,Sidney Lumet
+12,Peter Jackson
+13,Sathyan Anthikad
+14,Tauquir Ahmed
+15,Quentin Tarantino
+16,Walter Salles
+17,Ezra Edelman
+18,Moustapha Akkad
+19,Kartal Tibet
+20,Amitabh Reza Chowdhury
+21,Sibi Malayil
+22,David Fincher
+23,Robert Zemeckis
+24,Vidhu Vinod Chopra
+25,Sergio Leone
+26,Nick Morris
+27,Laurence Connor
+28,Haruo Sotozaki
+29,James Powell
+30,Masaki Kobayashi
+31,Rojin Thomas
+32,Dusan Kovacevic
+33,Bozidar 'Bota' Nikolic
+34,Slobodan Sijan
+35,M. Manikandan
+36,Mahesh Manjrekar
+37,Satish Padwal
+38,Venkatesh Maha
+39,Md. Hafizur Rahman
+40,Giasuddin Selim
+41,Anik Datta
+42,Vijay K. Bhaskar
+43,Martin Scorsese
+44,Lana Wachowski
+45,Lilly Wachowski
+46,Milos Forman
+47,Irvin Kershner
+48,T.J. Gnanavel
+49,Jonathan Demme
+50,Anilkatz
+51,Dhruva Vaayu
+52,Sudha Kongara
+53,Claude Lanzmann
+54,Kiranraj K
+55,Dragan Bjelogrlic
+56,Zoran Lisinac
+57,Mani Ratnam
+58,Madhavan
+59,Lenka Debiprasad
+60,Vishal Mourya
+61,Fazil
+62,Ram
+63,Mari Selvaraj
+64,Bharathan
+65,I.V. Sasi
+66,Atif Yilmaz
+67,Nesli Çölgeçen
+68,Orhan Aksoy
+69,T. Hariharan
+70,Frank Capra
+71,Joaquim Dos Santos
+72,Kemp Powers
+73,Justin K. Thompson
+74,Fernando Meirelles
+75,Kátia Lund
+76,James Cameron
+77,George Lucas
+78,Hayao Miyazaki
+79,Roberto Benigni
+80,Akira Kurosawa
+81,Vivek Agnihotri
+82,Shaun Monson
+83,Guel Arraes
+84,Jayathirtha
+85,Bilal Lashari
+86,Srdjan Dragojevic
+87,Sundar C.
+88,Zdravko Sotra
+89,Adrian Maben
+90,P. Padmarajan
+91,Bhadran
+92,Yann Arthus-Bertrand
+93,Péter Bacsó
+94,Priyadarshan
+95,Vikraman
+96,Ridley Scott
+97,Denis Villeneuve
+98,Rajkumar Periasamy
+99,Bong Joon Ho
+100,Damien Chazelle
+101,Luc Besson
+102,Alfred Hitchcock
+103,Roger Allers
+104,Rob Minkoff
+105,Tony Kaye
+106,Bryan Singer
+107,Roman Polanski
+108,Olivier Nakache
+109,Éric Toledano
+110,Nithilan Saminathan
+111,Isao Takahata
+112,Michael Curtiz
+113,Giuseppe Tornatore
+114,Charles Chaplin
+115,Kurt Kuenne
+116,Asif Kapadia
+117,Mstyslav Chernov
+118,Ron Fricke
+119,Hanu Raghavapudi
+120,Hiroshi Teshigahara
+121,C. Prem Kumar
+122,Marco Tullio Giordana
+123,Zoltán Fábri
+124,Hasan Fathi
+125,Jacques Becker
+126,Madhu C. Narayanan
+127,Waad Al-Kateab
+128,Edward Watts
+129,Gowtam Tinnanuri
+130,Pa. Ranjith
+131,Singeetam Srinivasa Rao
+132,Thiagarajan Kumararaja
+133,Ali Hatami
+134,Hrishikesh Mukherjee
+135,Goran Paskaljevic
+136,Zeki Ökten
+137,James Erskine
+138,Sean Evans
+139,Roger Waters
+140,James Marlowe
+141,Kittu
+142,Park Jun-soo
+143,Sam Wrench
+144,Todd Phillips
+145,Anthony Russo
+146,Joe Russo
+147,Stanley Kubrick
+148,Lee Unkrich
+149,Adrian Molina
+150,Bob Persichetti
+151,Peter Ramsey
+152,Rodney Rothman
+153,Florian Henckel von Donnersmarck
+154,Andrew Stanton
+155,Makoto Shinkai
+156,Billy Wilder
+157,Nadine Labaki
+158,Wolfgang Petersen
+159,Kiran Rao
+160,Rajkumar Hirani
+161,Juliano Ribeiro Salgado
+162,Wim Wenders
+163,Louie Psihoyos
+164,Lokesh Kanagaraj
+165,Ivo Caprino
+166,Vetrimaaran
+167,Kenji Mizoguchi
+168,Jeethu Joseph
+169,Kamal Tabrizi
+170,Masashi Koizuka
+171,Tetsurô Araki
+172,Radivoje Andric
+173,Nae Caranfil
+174,Anurag Kashyap
+175,Mohan Raja
+176,Satyajit Ray
+177,Dean DeBlois
+178,Nag Ashwin
+179,Taylor Swift
+180,Yavuz Turgul
+181,Digpal Lanjekar
+182,S. Shankar
+183,Leonid Gaidai
+184,Kamal Haasan
+185,Sergiu Nicolaescu
+186,K. Selvaraghavan
+187,Madonne Ashwin
+188,Rakshit Shetty
+189,Ergin Orbey
+190,Chris Sanders
+191,Gus Van Sant
+192,Michel Gondry
+193,Darren Aronofsky
+194,Sam Mendes
+195,Michael Mann
+196,Benjamin Ree
+197,Park Chan-wook
+198,Mel Gibson
+199,Brian De Palma
+200,Thomas Vinterberg
+201,John Lasseter
+202,Thomas Kail
+203,Elem Klimov
+204,Jean-Pierre Jeunet
+205,David Lean
+206,Pete Docter
+207,Bob Peterson
+208,Richard Marquand
+209,Fritz Lang
+210,Orson Welles
+211,Robert Mulligan
+212,Stanley Donen
+213,Gene Kelly
+214,George Roy Hill
+215,Asghar Farhadi
+216,Nitesh Tiwari
+217,Stanley Kramer
+218,Aamir Khan
+219,Amole Gupte
+220,Sergey Bondarchuk
+221,Vittorio De Sica
+222,Vishnuvardhan
+223,Shoojit Sircar
+224,Dziga Vertov
+225,Taichi Ishidate
+226,Jimmy Chin
+227,Elizabeth Chai Vasarhelyi
+228,Ram Kumar
+229,Mukesh Chhabra
+230,Yimou Zhang
+231,Marcel Carné
+232,Ingmar Bergman
+233,Steve James
+234,Mikhail Kalatozov
+235,Joshua Oppenheimer
+236,Dijo Jose Antony
+237,Alphonse Puthren
+238,Jude Anthany Joseph
+239,Morgan Neville
+240,Anjali Menon
+241,Ram Gopal Varma
+242,Tunç Basaran
+243,Evgeny Afineevsky
+244,Dileesh Pothan
+245,Milorad Milinkovic
+246,Attila Dargay
+247,Swaroop Rsj
+248,Nagraj Manjule
+249,Aleksandr Seryy
+250,Suresh Krishna
+251,Bala
+252,Kundan Shah
+253,Shoaib Mansoor
+254,Gulzar
+255,Nalan Kumarasamy
+256,Jayprad Desai
+257,Guru Dutt
+258,Vijay Anand
+259,Pawan Kumar
+260,Sam Dunn
+261,Scot McFadyen
+262,Ranjith
+263,Béla Ternovszky
+264,Arun Prabhu Purushothaman
+265,Salim Ahmed
+266,Ezhil
+267,Chathra Weeraman
+268,Bharatha Hettiarachchi
+269,Jon M. Chu
+270,Sean Baker
+271,Joseph Kosinski
+272,Ethan Coen
+273,Joel Coen
+274,John McTiernan
+275,Jon Watts
+276,Peter Weir
+277,John Carpenter
+278,Clint Eastwood
+279,Dinjith Ayyathan
+280,M. Night Shyamalan
+281,Peter Farrelly
+282,Guy Ritchie
+283,Sergio Pablos
+284,Carlos Martínez López
+285,Paul Thomas Anderson
+286,Ron Howard
+287,Guillermo del Toro
+288,Rahi Anil Barve
+289,Anand Gandhi
+290,Adesh Prasad
+291,Curtis Hanson
+292,Oliver Hirschbiegel
+293,Victor Fleming
+294,George Cukor
+295,Sam Wood
+296,Juan José Campanella
+297,Florian Zeller
+298,Terry Gilliam
+299,Terry Jones
+300,John Sturges
+301,David Lynch
+302,Joseph L. Mankiewicz
+303,Shouryuv
+304,Anonymous
+305,Christine Cynn
+306,Chidambaram
+307,Elia Kazan
+308,Charles Ferguson
+309,Majid Majidi
+310,John Huston
+311,Mehmet Ada Öztekin
+312,Prashanth Neel
+313,Sriram Raghavan
+314,Godfrey Reggio
+315,Robert Bresson
+316,Béla Tarr
+317,Rakeysh Omprakash Mehra
+318,Abel Gance
+319,Edward Yang
+320,Abbas Kiarostami
+321,Jennie Livingston
+322,Luchino Visconti
+323,Aditya Dhar
+324,Rishab Shetty
+325,Can Ulkay
+326,Malik Bendjelloul
+327,Çagan Irmak
+328,Zoya Akhtar
+329,Joe Berlinger
+330,Bruce Sinofsky
+331,S.S. Rajamouli
+332,Buster Keaton
+333,Lee Joon-ik
+334,Ashutosh Gowariker
+335,Ava DuVernay
+336,Sukumar
+337,Larisa Shepitko
+338,Saeed Roustayi
+339,Alper Caglar
+340,Yasujirô Ozu
+341,Dino Risi
+342,Gayatri
+343,Pushkar
+344,Gowtham Selvaraj
+345,Luis Buñuel
+346,Venkat Prabhu
+347,Sôichi Masui
+348,Carl Theodor Dreyer
+349,Sam Feder
+350,Frank Oz
+351,Adam Curtis
+352,Leo McCarey
+353,Mervyn LeRoy
+354,Fisher Stevens
+355,Hemanth M. Rao
+356,Mads Brügger
+357,Barbara Kopple
+358,Spike Lee
+359,H. Vinoth
+360,S.U. Arun Kumar
+361,Karthick Naren
+362,Grigoriy Chukhray
+363,Hansal Mehta
+364,Eldar Ryazanov
+365,Ahmet Katiksiz
+366,Wen Jiang
+367,Ján Kadár
+368,Elmar Klos
+369,Tigmanshu Dhulia
+370,Peter Davis
+371,Özer Feyzioglu
+372,Justin Malone
+373,Dibakar Banerjee
+374,Pravin E. Birje
+375,K.S. Ravikumar
+376,Ritesh Rana
+377,Stanislaw Bareja
+378,Gautham Vasudev Menon
+379,Curt Morgan
+380,Raj B. Shetty
+381,Sripriya
+382,Lucy Walker
+383,Jon Alpert
+384,Karthik Subbaraj
+385,Vinod Tewari
+386,Bommarillu Baskar
+387,Tharun Bhascker Dhaassyam
+388,Anwar Rasheed
+389,Andrew Dominik
+390,Leonid Bykov
+391,Dharani
+392,Daniel Lindsay
+393,T.J. Martin
+394,Cameron Crowe
+395,Ravikanth Perepu
+396,Rob Epstein
+397,Ashwiny Iyer Tiwari
+398,Trivikram Srinivas
+399,Brett Harvey
+400,A.L. Vijay
+401,Balaji Tharaneetharan
+402,Mostofa Sarwar Farooki
+403,James Moll
+404,King Vidor
+405,Gore Verbinski
+406,David Yates
+407,James Mangold
+408,George Miller
+409,Bernhard Wicki
+410,Victor Sjöström

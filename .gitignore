@@ -1,0 +1,11 @@
+__pycache__/
+__pycache__
+*.pyc
+.venv/
+.env
+.DS_Store
+Thumbs.db
+.ipynb
+.coverage
+.pytest_cache
+openTest.py
