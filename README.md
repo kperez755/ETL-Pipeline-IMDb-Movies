@@ -14,12 +14,12 @@ The goal is to deliver a reliable, repeatable pipeline that produces **clean, an
 
 ## 🔍 Data Sources  
 The pipeline expects the following raw data file:   
-- `movies_metadata.csv` — Kaggle movie metadata  
+- `movies.csv` — Kaggle movie metadata  
 
 ---
 
 ## 🧰 Tools & Technologies  
-- **Python**: `pandas`, `numpy`, `sqlalchemy`, `psycopg2`, `xgboost`, `scikit-learn`  
+- **Python**: `pandas`, `numpy`, `sqlalchemy`, `psycopg2`, `xgboost`, `scikit-learn`, `joblib`, `unittest`, `logging`
 - **PostgreSQL** or compatible SQL database  
 - **SQL** for validation and querying  
 - **Git/GitHub** for version control  
@@ -47,8 +47,8 @@ The pipeline expects the following raw data file:
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/kperez755/ETL-Pipeline-movies.git
-cd ETL-Pipeline-movies
+git clone https://github.com/kperez755/ETL-Pipeline-IMDb-Movies.git
+cd ETL-Pipeline-IMDb-Movies
 ```
 
 ### 2. Install dependencies  
