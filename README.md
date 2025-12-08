@@ -108,7 +108,8 @@ Use PgAdmin, DBeaver, or any SQL client to inspect loaded tables.
 ## 📊 Results  
 When the pipeline completes, you will have:  
 - A normalized **movies** table with merged metadata  
-- A production-ready database for analytics or machine learning workflows  
+- A production-ready database for analytics or machine learning workflows
+- A bar graph visualization ready for visualization and further analysis 
 
 <!-- TOC --><a name="-future-improvements"></a>
 ## 🧠 Future Improvements  
