@@ -1,6 +1,8 @@
 from src.extract import extract_data
 from src.transform import transform
 from src.load import load_data
+from ML.predict import prediction
+from ML.plot import plotting
 
 
 RAW_DATA = 'data/raw/movies.csv'
@@ -14,6 +16,10 @@ def main():
 
     ## Load
     load_data()
+
+    ## Predicting & Plotting
+    prediction()
+    plotting()
 
 if __name__ == "__main__":
     main()
