@@ -107,7 +107,7 @@ def create_schema(cur):
         CREATE TABLE movie_writers (
             id INT,
             writer_id INT,
-            PRIMARY KEY (id, writer_id),
+            PRIMARY KEY (id, writer_id),    
             FOREIGN KEY (id) REFERENCES movies_cleaned(id) ON DELETE CASCADE,
             FOREIGN KEY (writer_id) REFERENCES writers(writer_id) ON DELETE CASCADE
         );

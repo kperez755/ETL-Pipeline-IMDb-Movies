@@ -103,6 +103,18 @@ def transform():
     rows_to_drop = df[df['Writer'].isna()].copy()
     rows_to_drop.to_csv('data/processed/dropped_rows.csv', index=False)
 
+    logger.info("Dropping rows")
+    rows_to_drop = df[df['Country of Origin'].isna()].copy()
+    rows_to_drop.to_csv('data/processed/dropped_rows.csv', index=False)
+
+    logger.info("Dropping rows")
+    rows_to_drop = df[df['Cast'].isna()].copy()
+    rows_to_drop.to_csv('data/processed/dropped_rows.csv', index=False)
+
+    logger.info("Dropping rows")
+    rows_to_drop = df[df['Country of Origin'].isna()].copy()
+    rows_to_drop.to_csv('data/processed/dropped_rows.csv', index=False)
+
     df_cleaned = df.drop(columns=columns_to_drop)
     df_cleaned = df_cleaned.drop(rows_to_drop.index)
 
@@ -158,6 +170,8 @@ def transform():
 
     output_dir = "data/processed/normalized"
     os.makedirs(output_dir, exist_ok=True)
+
+    df_cleaned.to_csv(f"{output_dir}/cleaned.csv", index=False)
 
     directors_df.to_csv(f"{output_dir}/directors.csv", index=False)
     writers_df.to_csv(f"{output_dir}/writers.csv", index=False)

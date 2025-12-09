@@ -25,7 +25,6 @@ def plotting():
     plt.xlabel("Features")
     plt.ylabel("Importance Score")
     plt.title("Features Vs Importance")
-    plt.legend()
     plt.xticks(rotation=45)
     plt.tight_layout()
     plt.show()
