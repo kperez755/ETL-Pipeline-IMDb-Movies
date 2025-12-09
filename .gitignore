@@ -9,3 +9,5 @@ Thumbs.db
 .coverage
 .pytest_cache
 openTest.py
+data/processed/
+data/processed/normalized

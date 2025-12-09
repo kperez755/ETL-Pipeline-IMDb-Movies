@@ -136,7 +136,7 @@ def transform():
     df_cleaned['Worldwide Gross'] = df_cleaned['Worldwide Gross'].fillna(df_cleaned['Worldwide Gross'].median())
 
     time.sleep(3)
-
+    
     ## Normalize
     logger.info("Normalizing data")
     directors_df, movie_directors_df = normalize_column(df_cleaned, 'Director', 'director', 'Id')
@@ -181,5 +181,3 @@ def transform():
     
     ## Save cleaned file
     df_cleaned.to_csv("data/processed/movies_cleaned.csv", index=False)
-
-transform()
