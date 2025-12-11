@@ -111,9 +111,8 @@ def transform():
     rows_to_drop = df[df['Cast'].isna()].copy()
     rows_to_drop.to_csv('data/processed/dropped_rows.csv', index=False)
 
-    logger.info("Dropping rows")
-    rows_to_drop = df[df['Country of Origin'].isna()].copy()
-    rows_to_drop.to_csv('data/processed/dropped_rows.csv', index=False)
+
+    
 
     df_cleaned = df.drop(columns=columns_to_drop)
     df_cleaned = df_cleaned.drop(rows_to_drop.index)
@@ -130,8 +129,8 @@ def transform():
         errors='coerce'
     )
 
-    ## Convert Date to numeric
-    logger.info("Converting Date to Numeric")
+    ## Convert R to numeric
+    logger.info("Converting Runtime to Numeric")
     df_cleaned["Runtime"] = df_cleaned["Runtime"].apply(normalize_runtime)
 
     ## Convert Worldwide Gross
